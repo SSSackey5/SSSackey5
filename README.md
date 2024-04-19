@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SSSackey5
+- 👋 Hi, I’m SamSac
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on everything Data Analytics
